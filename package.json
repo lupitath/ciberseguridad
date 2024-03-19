@@ -1,0 +1,22 @@
+{
+  "name": "ciberseguridad",
+  "version": "1.0.0",
+  "description": "servidor para pruebas de seguridad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupitath/ciberseguridad.git"
+  },
+  "author": "Guadalupe Tiscarenio Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupitath/ciberseguridad/issues"
+  },
+  "homepage": "https://github.com/lupitath/ciberseguridad#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
